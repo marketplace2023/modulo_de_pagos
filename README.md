@@ -71,7 +71,7 @@ Interfaz de Importación: Facilita la carga y el procesamiento de datos de trans
 Vista de Conciliación: Verifica y ajusta las diferencias entre los movimientos bancarios y los registros contables para mantener la precisión en los estados financieros.
 ## Configuración de Pasarelas de Pago (account_payment_acquirer)
 Vista de Configuración: Establece las integraciones con servicios de procesamiento de pagos externos, permitiendo transacciones electrónicas seguras y eficientes.
-Ajustes
+# Ajustes
 ## Definición de Métodos de Pago (account_payment_method)
 Vista de Configuración: Configura los diferentes métodos de pago disponibles, como transferencias bancarias, pagos con tarjeta, pagos en efectivo, entre otros.
 ## Configuración de Términos de Pago (account_payment_term)
@@ -80,7 +80,7 @@ Vista de Configuración: Establece las condiciones bajo las cuales se aceptan lo
 Vista de Lista: Organiza pagos por criterios específicos para su gestión conjunta, facilitando la administración de múltiples transacciones.
 ## Registro de Pagos Manuales (account_payment_register)
 Formulario de Registro: Permite la inclusión manual de pagos en el sistema, especialmente útil para métodos de pago que no se procesan electrónicamente.
-Reportes
+# Reportes
 ## Análisis de Transacciones Financieras (account_move)
 Informe de Análisis: Proporciona un informe detallado sobre las operaciones contables y su impacto en la situación financiera de la empresa.
 ## Seguimiento de Facturas de Clientes (account_invoice)
